@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thit2003&show_icons=true&locale=en" alt="thit2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thit2003&" alt="thit2003" /></p>
+
+<img src="https://raw.githubusercontent.com/thit2003/thit2003/output/snake.svg" width="1500" alt="Snake animation" />
