@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmR0ZWN1OThxY2t3MmoxcHlwdWljemJ2YmRjZ3l2anRzaXlibjFsYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l22ysLe54hZP0wubek/giphy.gif" alt="Pulp Fiction GIF" width="65%"  height="380px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlmbmxlZDF5bHZ1eTY5cTVxbG0ycjk1MDc5OG45ZG82NjZwcTQyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QADBkPcIsqymW2PtKP/giphy.gif" alt="Pulp Fiction GIF" width="65%"  height="380px">
 </div>
 
 <h1 align="center">Hi 👋, I'm John</h1>
