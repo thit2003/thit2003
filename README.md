@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlmbmxlZDF5bHZ1eTY5cTVxbG0ycjk1MDc5OG45ZG82NjZwcTQyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QADBkPcIsqymW2PtKP/giphy.gif" alt="Pulp Fiction GIF" width="65%"  height="380px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWIxcG9paWxoYnVxNGdvNzhpbnVlb2VjbTM2czFkNTd3ZDZvczE1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgKc6XWRjJ4GgkAevA/giphy.gif" alt="Pulp Fiction GIF" width="65%"  height="380px">
 </div>
 
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi👋, I'm Dexx</h1>
 <h3 align="center">Computer Science student from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thit2003&label=Profile%20views&color=0e75b6&style=flat" alt="thit2003" /> </p>
 
-- 🔭 I’m currently working on [InfoNest](https://github.com/thit2003/InfoNest.git)
+- 🔭 I’m currently working on [Sem AB Test Analyzer](https://github.com/thit2003/sem-analyzer-api)
 
-- 🌱 I’m currently learning **MERN, NLP & NLU**
+- 🌱 I’m currently learning **Data Engineering & Cryptography**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thit2003?tab=repositories](https://github.com/thit2003?tab=repositories)
 
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Java, React, NLP, JavaScript**
 
 - 📫 How to reach me **tlwt2003@gmail.com**
 
